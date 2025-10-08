@@ -1,1 +1,3 @@
-https://docs.github.com
+https://drive.google.com
+https://keep.google.com
+https://dics.google.com
