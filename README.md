@@ -1,3 +1,1 @@
-https://drive.google.com
-https://keep.google.com
-https://dics.google.com
+print("enter the value of x:")
